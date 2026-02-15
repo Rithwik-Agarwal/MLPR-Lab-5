@@ -32,7 +32,7 @@ This repository contains the submission for **Lab 5**, focused on Computer Visio
 <img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/adeb8e5b-ac28-43b3-9bb0-75f2498a917f" />
 
 ## 📂 Files Included
-* `Lab 5-Spring 2026.ipynb`: The Jupyter Notebook containing the code and report answers.
+* `Lab 5 Spring 2026.ipynb`: The Jupyter Notebook containing the code and report answers.
 * `plaksha_Faculty.jpg`: The input image used for face detection.
 * `Dr_Shashi_Tharoor.jpg`: New image.
 * `README.md`: Project documentation.
